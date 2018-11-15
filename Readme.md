@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/T292798/Form1.cs) (VB: [Form1.vb](./VB/T292798/Form1.vb))**
+<!-- default file list end -->
 # How to edit the SqlDataSource connection and query at runtime via wizard by using the SqlDataSourceUIHelper class
 
 
