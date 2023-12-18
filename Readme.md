@@ -13,7 +13,7 @@ To execute a connection configuration wizard, call the [SqlDataSourceUIHelper.
 
 To execute a query editing wizard, call the [SqlDataSourceUIHelper.EditQuery](https://docs.devexpress.com/WindowsForms/devexpress.dataaccess.ui.sql.sqldatasourceuihelper.editquery.overloads) method and pass the `SqlDataSource` component's `SqlQuery` instance to it.
 
-> ![Note]
+> [!Note]
 > Refill the `SqlDataSource` after its connection or query is edited. Use the [SqlDataSource.Fill](https://docs.devexpress.com/CoreLibraries/devexpress.dataaccess.sql.sqldatasource.fill.overloads) method for this purpose.
 
 The [SqlDataSourceUIHelper](https://docs.devexpress.com/WindowsForms/DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper) class also provides other wizards that can be used to configure the SqlDataSource component. Please refer to the [SqlDataSourceUIHelper Members](https://docs.devexpress.com/WindowsForms/DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper._members) help topic for more information.
