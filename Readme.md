@@ -27,7 +27,7 @@ The [SqlDataSourceUIHelper](https://docs.devexpress.com/WindowsForms/DevExpress
 * [Binding to SQL Data](https://docs.devexpress.com/WindowsForms/18167/common-features/data-binding/binding-to-sql-data)
 * [Specify Data Connection](https://docs.devexpress.com/CoreLibraries/403634/devexpress-data-library/data-sources/use-the-sql-data-source/specify-data-connection)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-edit-the-sqldatasource-connection-and-query-at-runtime&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-edit-the-sqldatasource-connection-and-query-at-runtime&~~~was_helpful=no)
 
